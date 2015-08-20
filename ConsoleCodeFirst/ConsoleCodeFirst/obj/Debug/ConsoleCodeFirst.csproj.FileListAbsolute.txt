@@ -1,0 +1,13 @@
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\bin\Debug\ConsoleCodeFirst.exe.config
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\bin\Debug\ConsoleCodeFirst.exe
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\bin\Debug\ConsoleCodeFirst.pdb
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\bin\Debug\EntityFramework.dll
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\bin\Debug\EntityFramework.xml
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\obj\Debug\ConsoleCodeFirst.csprojResolveAssemblyReference.cache
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\obj\Debug\ConsoleCodeFirst.exe
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\obj\Debug\ConsoleCodeFirst.pdb
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\obj\Debug\ConsoleCodeFirst.Migrations.InitialCreate.resources
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\obj\Debug\ConsoleCodeFirst.csproj.GenerateResource.Cache
+D:\manprit\source\CodeFirst\ConsoleCodeFirst\ConsoleCodeFirst\obj\Debug\ConsoleCodeFirst.Migrations.AddStoredProcedure.resources
